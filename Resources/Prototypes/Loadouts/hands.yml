@@ -113,3 +113,19 @@
   exclusive: true
   items:
     - ClothingHandsGlovesRobohands
+
+- type: loadout
+  id: LoadoutHandsGlovesFingerless
+  category: Hands
+  cost: 1
+  exclusive: true
+  items:
+    - ClothingHandsGlovesFingerless
+
+- type: loadout #FloofStation
+  id: LoadoutHandsGlovesTacticalMaid
+  category: Hands
+  cost: 2
+  exclusive: true
+  items:
+    - ClothingHandsTacticalMaidGloves
