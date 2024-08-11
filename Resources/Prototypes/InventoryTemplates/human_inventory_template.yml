@@ -54,6 +54,13 @@
       uiWindowPos: 2,2
       strippingWindowPos: 2,0
       displayName: Ears
+    - name: rightear
+      slotTexture: ears
+      slotFlags: EARS
+      stripTime: 3
+      uiWindowPos: 2,3
+      strippingWindowPos: 2,0
+      displayName: Ears
     - name: head
       slotTexture: head
       slotFlags: HEAD
@@ -114,3 +121,10 @@
       uiWindowPos: 3,0
       strippingWindowPos: 0,5
       displayName: Back
+    - name: extrapocket
+      slotTexture: pocket
+      slotFlags: POCKET
+      stripTime: 6
+      uiWindowPos: 3,2
+      strippingWindowPos: 2,0
+      displayName: extrapocket
